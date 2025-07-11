@@ -54,7 +54,7 @@ body {
 
 .row {
     display: grid;
-    grid-template-columns: repeat(3, 200px);
+    grid-template-columns: repeat(3, 100px);
     gap: 20px;
 }
 
